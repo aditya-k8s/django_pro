@@ -1,4 +1,4 @@
-# Simple cod Notes App
+# Simple cod code cdodkldslnvNotes App
 This is a simple notes app built with React and Django.
 
 ## Requirements
