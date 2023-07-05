@@ -1,6 +1,6 @@
 version : "3.3"
 services :
-  web :
+  image : docker push aditya223221/node-todo-app:latest
      build : .
      ports :
          - "8001:8001"
