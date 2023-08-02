@@ -1,6 +1,7 @@
-version : "3.3"
-services :
-  image : docker push aditya223221/node-app:latest
-     build : .
-     ports :
-         - "8001:8001"
+version: '3.9'
+
+services:
+  web:
+    image: "aditya223221/node-todo-app:latest"
+    ports:
+      - "8001:8001"
